@@ -1,0 +1,22 @@
+{
+  "name": "jogo-da-velha",
+  "version": "1.0.0",
+  "description": "Jogo da velha em javascript construído pelos participantes da oficina de lógica de programação em 2020.",
+  "main": "jogoDaVelha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ateliedeideias/jogo-da-velha.git"
+  },
+  "author": "Ateliê de Ideias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ateliedeideias/jogo-da-velha/issues"
+  },
+  "homepage": "https://github.com/ateliedeideias/jogo-da-velha#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

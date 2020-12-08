@@ -11,7 +11,8 @@ git clone git@github.com:ateliedeideias/jogo-da-velha.git
 ## Executar projeto
 - node jogoDaVelha.js
 - Acessar o jogo pelo navegador no endereço: [http://localhost:3001]
-## Antes de alterar seu código faça o checkout na branch main e atualize seu repositório
+
+## Antes de iniciar seu trabalho sempre vá para a branch principal e atualize seu repositório
 git checkout main
 git pull
 
