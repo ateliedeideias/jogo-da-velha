@@ -4,7 +4,14 @@ Jogo da velha em javascript construído pelos participantes da oficina de lógic
 ## Para clonar o repositório, use o comando
 git clone git@github.com:ateliedeideias/jogo-da-velha.git
 
-## Antes de iniciar seu trabalho sempre vá para a branch principal e atualize seu repositório
+## Iniciar Ambiente Desenvolvimento
+- Abrir Visual Code na pasta do projeto
+- npm install
+
+## Executar projeto
+- node jogoDaVelha.js
+- Acessar o jogo pelo navegador no endereço: [http://localhost:3001]
+## Antes de alterar seu código faça o checkout na branch main e atualize seu repositório
 git checkout main
 git pull
 
